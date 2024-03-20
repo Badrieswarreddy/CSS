@@ -1,0 +1,9 @@
+h2{
+    text-shadow: 2px 2px 5px rgb(99, 79, 79) ;
+}
+div{
+    border-style: solid;
+    height: 200px;
+    width: 200;
+    box-shadow: 2px 2px blue;
+}

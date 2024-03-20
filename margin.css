@@ -1,0 +1,11 @@
+h2{
+    border-style: solid;
+    margin-top: 50;
+    margin-bottom: 70px;
+    margin-left: 60px;
+    margin-right: 50px;
+}
+h3{
+    border-style: solid;
+    margin: 50px 100px 150 200px;
+}

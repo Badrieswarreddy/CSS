@@ -1,0 +1,10 @@
+.left-float{
+    float: left;
+    width: 50%;
+    font-size: 30px;
+}
+.right-float{
+    float: right;
+    width: 50%;
+    font-size: 30px;
+}

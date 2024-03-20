@@ -1,0 +1,13 @@
+.form-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-image: url('https://tse2.mm.bing.net/th?id=OIP.ensiLtlsMoQxpqIoO-IyYgHaEo&pid=Api&P=0&h=180');
+    background-size: cover;
+}
+.input-container{
+    border-style: inset;
+    padding: 20px 20px 20px 20px;
+
+}

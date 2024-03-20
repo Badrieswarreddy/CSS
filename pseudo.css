@@ -1,0 +1,12 @@
+h6::first-letter{
+    color: darkblue;
+    font-size:xx-large;
+}
+p::marker{
+    color: blue;
+}
+#banana::after{
+    content: url('https://image.emojipng.com/259/12293259.jpg');
+    height: 1px;
+    width: 1px;
+}
